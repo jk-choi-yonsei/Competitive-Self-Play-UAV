@@ -1,0 +1,7 @@
+jsbsim
+torch
+numpy
+geopy
+haversine
+tensorboard
+matplotlib

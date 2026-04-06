@@ -1,0 +1,6 @@
+label,algo,init,total_episodes,success_rate,kill_rate,crash_rate,avg_score,avg_progress,avg_in_radar_steps,avg_steps,last50_success_rate,last50_kill_rate,last50_crash_rate,last50_avg_score,last50_avg_progress,last100_success_rate,last100_kill_rate,last100_avg_score,first_success_ep,first_progress50_ep,first_progress80_ep
+SAC_Scratch,SAC,Scratch,500,10.0,53.6,27.0,-343.52,0.0084,1571.4,1706.9,0.0,58.0,32.0,-498.71,0.006,11.0,51.0,-331.38,242,-1,-1
+SAC_FT_Self,SAC,FT(SelfPlay),500,23.0,48.0,16.2,-135.05,0.0092,1816.4,2037.7,56.0,22.0,6.0,361.69,0.011,55.0,25.0,337.53,93,-1,-1
+SAC_FT_Return,SAC,FT(Return),500,6.6,52.4,33.4,-388.57,0.0085,1278.5,1518.5,22.0,34.0,24.0,-132.35,0.009,25.0,41.0,-109.64,216,-1,-1
+PPO_FT_Self,PPO,FT(SelfPlay),500,0.0,1.6,94.0,-542.38,0.0011,896.3,1313.5,0.0,0.0,100.0,-579.4,-0.0,0.0,0.0,-559.97,-1,-1,-1
+PPO_Scratch,PPO,Scratch,500,0.8,23.0,60.4,-473.66,0.0041,875.2,1614.9,0.0,24.0,76.0,-547.93,0.0048,0.0,17.0,-515.12,294,-1,-1

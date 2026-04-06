@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Results (only keep relevant ones in submission package if they are already there)
+# Note: submission_package/paper/results/ should be included.
+# submission_package/runs/ should be included if needed for ablation.
+
+# Allow models and pth files in this specific repo
+!models/
+!models/**/*.pth
+!*.pth

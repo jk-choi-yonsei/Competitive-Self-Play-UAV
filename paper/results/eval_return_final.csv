@@ -1,0 +1,5 @@
+label,algo,n_episodes,success_rate,avg_reward,avg_steps,crash_rate,avg_wp
+SAC_Scratch,SAC,50,86.0,1201.96,919.6,14.0,3.72
+SAC_FT_ActorOnly,SAC,50,90.0,1263.86,915.2,10.0,3.82
+PPO_Scratch,PPO,50,0.0,166.05,693.0,100.0,1.82
+PPO_FT,PPO,50,2.0,214.86,732.1,98.0,1.8
