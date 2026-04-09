@@ -44,7 +44,7 @@ submission_package/
 │   └── paper_figures/             # Generated figures as used in the paper
 ├── runs/
 │   └── 20260219_SAC_SAM_FineTune/ # Training logs (episode_metrics.csv) for F2 ablation
-└── models/                        # Trained model checkpoints (final episode only)
+└── models/                        # Trained model checkpoints
     ├── 20260109_SAC_Self_Play/             selfplay_epi_00900.pth
     ├── 20260226_PPO_Self_Play/             selfplay_epi_00960.pth
     ├── 20260113_SAC_Return_20260119_1057/  epi_00499.pth
