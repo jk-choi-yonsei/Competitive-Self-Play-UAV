@@ -45,8 +45,8 @@ submission_package/
 ├── runs/
 │   └── 20260219_SAC_SAM_FineTune/ # Training logs (episode_metrics.csv) for F2 ablation
 └── models/                        # Trained model checkpoints (final episode only)
-    ├── 20260109_SAC_Self_Play/             selfplay_pool_01999.pth
-    ├── 20260226_PPO_Self_Play/             selfplay_pool_01999.pth
+    ├── 20260109_SAC_Self_Play/             selfplay_epi_00900.pth
+    ├── 20260226_PPO_Self_Play/             selfplay_epi_00960.pth
     ├── 20260113_SAC_Return_20260119_1057/  epi_00499.pth
     ├── 20260210_SAC_Return_FineTune_20260212_1249/  epi_00499.pth
     ├── 20260219_SAC_SAM_FineTune_20260306_1730/     epi_00499.pth  <- SPOT
