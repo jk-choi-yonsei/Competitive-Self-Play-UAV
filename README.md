@@ -4,7 +4,7 @@ This package contains all code, pre-trained models, and results needed to
 reproduce every figure and table in the paper.
 
 ---
-[![DOI](https://zenodo.org/badge/latestdoi/1202476012.svg)](https://doi.org/10.5281/zenodo.19479428)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19479428.svg)](https://doi.org/10.5281/zenodo.19479428)
 
 
 ## Directory Structure
